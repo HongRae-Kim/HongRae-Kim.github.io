@@ -36,7 +36,6 @@ jobs:
         uses: actions/setup-node@v6
         with:
           node-version: lts/*
-          cache: npm
 
       - name: Setup Pages
         id: pages
@@ -50,7 +49,7 @@ jobs:
 
       - name: Build frontend assets
         run: |
-          npm ci
+          npm install
           npm run build
 
       - name: Build site
