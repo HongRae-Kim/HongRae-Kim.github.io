@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">HongRae Tech Blog avatar</title>
+  <desc id="desc">Monogram avatar with the letters H and R.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="64" fill="url(#bg)" />
+  <circle cx="128" cy="128" r="88" fill="none" stroke="#93c5fd" stroke-width="8" opacity="0.85" />
+  <path
+    d="M72 72h28v40h56V72h28v112h-28v-46h-56v46H72V72zm104 0h42c30 0 42 15 42 34 0 16-8 27-23 32l29 46h-31l-25-40h-6v40h-28V72zm28 49h12c10 0 16-5 16-14 0-8-5-13-16-13h-12v27z"
+    fill="#eff6ff"
+  />
+</svg>
