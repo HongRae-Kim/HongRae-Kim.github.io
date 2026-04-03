@@ -4,7 +4,7 @@ date: 2026-04-03 16:00:00 +0900
 categories: [Blog, Backend]
 tags: [jwt, auth, security, backend]
 description: >-
-  JWT의 개념, 구조, 동장 방식과 검증·디코딩 차이를 학습한 내용을 정리한 글이다..
+  JWT의 개념, 구조, 동작 방식과 검증·디코딩 차이를 학습한 내용을 정리한 글이다.
 ---
 
 백엔드나 웹 개발을 공부하다 보면 인증 방식에서 자주 등장하는 개념이 바로 **JWT(JSON Web Token)** 이다.
