@@ -1,10 +1,10 @@
 ---
 title: 배열이란 무엇인가
 date: 2026-04-03 21:00:00 +0900
-categories: [Blog, Backend]
-tags: [java, data structure, security, backend]
+categories: [Blog, Java]
+tags: [java, data structure, array]
 description: >-
-  JWT의 개념, 구조, 동작 방식과 검증·디코딩 차이를 학습한 내용을 정리한 글이다.
+    배열이 무엇인지부터 자바에서의 선언, 생성, 사용법, 주의할 점까지 예제와 함께 정리한 학습 글이다.
 ---
 
 ## 1. 배열이란? 
